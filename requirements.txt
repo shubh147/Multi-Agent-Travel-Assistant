@@ -1,0 +1,7 @@
+pandas>=2.0
+streamlit>=1.25
+python-dotenv>=1.0
+langgraph>=0.1.0
+langchain-core>=0.0.203
+langchain-community>=0.0.73
+langchain-groq>=0.3.7
